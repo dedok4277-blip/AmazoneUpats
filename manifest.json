@@ -1,0 +1,19 @@
+{
+  "latestVersion": 1,
+  "updates": [
+    {
+      "version": 1,
+      "description": "Первая версия сборки",
+      "files": [
+        {
+          "targetPath": "game.exe",
+          "downloadUrl": "/files/game.exe"
+        },
+        {
+          "targetPath": "data/textures.pak",
+          "downloadUrl": "/files/data/textures.pak"
+        }
+      ]
+    }
+  ]
+}

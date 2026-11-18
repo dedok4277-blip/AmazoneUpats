@@ -1,5 +1,5 @@
 {
-  "latestVersion": 1,
+  "latestVersion": 2,
   "updates": [
     {
       "version": 1,
@@ -12,6 +12,16 @@
         {
           "targetPath": "data/textures.pak",
           "downloadUrl": "/files/data/textures.pak"
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "description": "Тестовое обновление v2 — патч баланса",
+      "files": [
+        {
+          "targetPath": "update_test.txt",
+          "downloadUrl": "/files/update_test.txt"
         }
       ]
     }
